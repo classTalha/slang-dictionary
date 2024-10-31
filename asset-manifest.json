@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/slang-dictionary/static/css/main.e6c13ad2.css",
+    "main.js": "/slang-dictionary/static/js/main.9daf0785.js",
+    "static/js/453.166b8eb5.chunk.js": "/slang-dictionary/static/js/453.166b8eb5.chunk.js",
+    "index.html": "/slang-dictionary/index.html",
+    "main.e6c13ad2.css.map": "/slang-dictionary/static/css/main.e6c13ad2.css.map",
+    "main.9daf0785.js.map": "/slang-dictionary/static/js/main.9daf0785.js.map",
+    "453.166b8eb5.chunk.js.map": "/slang-dictionary/static/js/453.166b8eb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9daf0785.js"
+  ]
+}
